@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="scripts\Tables\Users_TB1415_20180520_1515_CreateTable.sql" />
+    <None Remove="scripts\Tables\Users_TB1520_20180520_1525_AlterTable_AddColumn.sql" />
+    <None Remove="scripts\Tables\Users_TB1620_20180520_1544_AlterTable_AddColumn.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="scripts\Tables\Users_TB1415_20180520_1515_CreateTable.sql" />
+    <EmbeddedResource Include="scripts\Tables\Users_TB1520_20180520_1525_AlterTable_AddColumn.sql" />
+    <EmbeddedResource Include="scripts\Tables\Users_TB1620_20180520_1544_AlterTable_AddColumn.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="scripts\StoredProcedures\" />
+    <Folder Include="scripts\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dbup-core" Version="4.1.0" />
+    <PackageReference Include="dbup-sqlserver" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>

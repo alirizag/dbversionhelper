@@ -1,0 +1,11 @@
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\bin\Debug\netcoreapp2.0\dbversionhelper.app.deps.json
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\bin\Debug\netcoreapp2.0\dbversionhelper.app.runtimeconfig.json
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\bin\Debug\netcoreapp2.0\dbversionhelper.app.runtimeconfig.dev.json
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\bin\Debug\netcoreapp2.0\dbversionhelper.app.dll
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.csprojResolveAssemblyReference.cache
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.csproj.CoreCompileInputs.cache
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.AssemblyInfoInputs.cache
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.AssemblyInfo.cs
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\bin\Debug\netcoreapp2.0\dbversionhelper.app.pdb
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.dll
+C:\Users\aliriza.gokcek\source\repos\dbversionhelper\src\dbversionhelper.app\obj\Debug\netcoreapp2.0\dbversionhelper.app.pdb
